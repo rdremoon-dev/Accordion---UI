@@ -7,4 +7,4 @@ A simple and clean accordion built using HTML, CSS, and JavaScript.
 - Responsive design
 
 ## Live Demo
-https://rdremoon-dev.github.io/Accordion---UI/
+https://accordionui.netlify.app/
